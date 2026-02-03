@@ -24,7 +24,7 @@ Successfully deploy n8n on Render using Docker with the latest configurations an
 ## Environment Variables
 The following variables should be configured in your Render dashboard:
 - `WEBHOOK_URL` - Your n8n domain (e.g., `https://your-app.onrender.com/`)
-- `N8N_ENCRYPTION_KEY` - Generate a secure random string
+- `N8N_ENCRYPTION_KEY` - Generate a secure random string for this 
 - Database connection variables are auto-populated by Render
 
 ## Troubleshooting
