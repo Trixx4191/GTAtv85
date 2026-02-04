@@ -15,7 +15,7 @@ Successfully deploy n8n on Render using Docker with the latest configurations an
 - Uses the latest n8n Docker image with automatic updates
 
 ## What's Updated (2025)
-- ✅ Updated to use current Render database plans (flexible pricing)
+- ✅ Updated to use current Render database plans (flexible pricing on platform)
 - ✅ Added required `WEBHOOK_URL` environment variable
 - ✅ Updated database instance types to current options
 - ✅ Improved documentation and setup instructions
